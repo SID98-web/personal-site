@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smpagare.github.io/personal-site/sitemap.xml

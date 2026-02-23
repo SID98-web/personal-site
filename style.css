@@ -233,13 +233,15 @@ a:hover {
 .social-icon:nth-child(2) { background: #000; }      /* X */
 .social-icon:nth-child(3) { background: #0085ff; }   /* Bluesky */
 .social-icon:nth-child(4) { background: #333; }      /* GitHub */
-.social-icon:nth-child(5) { background: #8b1a1a; }   /* Email */
+.social-icon:nth-child(5) { background: #4285F4; }   /* Google Scholar */
+.social-icon:nth-child(6) { background: #8b1a1a; }   /* Email */
 
 .social-icon:nth-child(1):hover { background: #005f8f; }
 .social-icon:nth-child(2):hover { background: #333; }
 .social-icon:nth-child(3):hover { background: #0066cc; }
 .social-icon:nth-child(4):hover { background: #555; }
-.social-icon:nth-child(5):hover { background: #6b1010; }
+.social-icon:nth-child(5):hover { background: #3367d6; }
+.social-icon:nth-child(6):hover { background: #6b1010; }
 
 /* ===== Papers ===== */
 .paper {
